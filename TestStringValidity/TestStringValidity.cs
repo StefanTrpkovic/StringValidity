@@ -11,6 +11,7 @@ namespace TestStringValidity
 		[TestMethod]
 		public void ShouldReturnCorrectStringWhenAllCharsAreEqual()
 		{
+			//
 			//Arrange
 			ConsoleReaderWriter consoleReaderWriter = new ConsoleReaderWriter("xyz");
 
